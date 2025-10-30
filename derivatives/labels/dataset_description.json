@@ -1,0 +1,7 @@
+{
+    "Name": "data_axondeepseg_vcu cropped training data labels",
+    "BIDSVersion": "1.7.0",
+    "PipelineDescription": {"Name": "axon, myelin and axonmyelin manual segmentation labels"},
+    "GeneratedBy": [{"Name": "axon, myelin and axonmyelin manual segmentation labels"}],
+    "License": "MIT"
+}

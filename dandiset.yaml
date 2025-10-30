@@ -8,9 +8,19 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 64326359
+  numberOfFiles: 59
+  numberOfSamples: 13
+  numberOfSubjects: 14
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Collin, Armand; Reiter, Charles; Bendale, Geetanjali; Daniel, Lida; Smith,
   Matt; deBruler, Isabelle; Fernandes Gragnani, Mariana; Clement, Ryan; McNeice, Jules;
   Griffitts, Fletcher; Sonntag, Maximilian; Cohen-Adad, Julien (2025) Bright-Field

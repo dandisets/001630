@@ -1,0 +1,11 @@
+# data_axondeepseg_vcu
+This dataset contains Bright-Field images provided by Charles Reiter from Virginia
+Commonwealth University (VCU), supervised by Dr Geetanjali Bendale. These images 
+were stained with Toluidine Blue at a 40x magnification. The samples were taken 
+from tibial nerves of male New Zealand white rabbits.
+
+- 8/14 images are fully annotated, with axon and myelin labels
+- 6/14 images are unannotated
+- data originally used in https://pmc.ncbi.nlm.nih.gov/articles/PMC10517328/#s017
+
+BIDS version 1.7.0

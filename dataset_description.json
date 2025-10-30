@@ -1,0 +1,10 @@
+{
+    "Name": "data_axondeepseg_vcu",
+    "Authors": [
+        "Charles Reiter",
+        "Geetanjali Bendale",
+        "Armand Collin"
+    ],
+    "BIDSVersion": "1.7.0",
+    "License": "MIT"
+}
