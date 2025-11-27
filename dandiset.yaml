@@ -25,7 +25,7 @@ citation: Collin, Armand; Reiter, Charles; Bendale, Geetanjali; Daniel, Lida; Sm
   Matt; deBruler, Isabelle; Fernandes Gragnani, Mariana; Clement, Ryan; McNeice, Jules;
   Griffitts, Fletcher; Sonntag, Maximilian; Cohen-Adad, Julien (2025) Bright-Field
   Images of Rabbit Nerves from Nerve Repair Study with Axon and Myelin Segmentations
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001630/draft
+  (Version 0.251127.1424) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001630/0.251127.1424
 contributor:
 - affiliation: []
   email: armand.collin@polymtl.ca
@@ -115,20 +115,34 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 dateCreated: '2025-10-30T14:14:48.247201+00:00'
+datePublished: '2025-11-27T14:24:34.577630+00:00'
 description: "- Bright-Field Optical Microscopy (BF) dataset for AxonDeepSeg (https://axondeepseg.readthedocs.io/)\n
   \n- Data collected from New Zealand white rabbits in experimental nerve repair study.\n
   \n- 14 subjects, with one sample per subject\n\n- 8 subjects have manual annotations\n
   \n- Corresponding axon, myelin, axonmyelin manual segmentation \"labels\" in derivatives.\n
   \n- This dataset is a subset of the full dataset used in this publication: https://pmc.ncbi.nlm.nih.gov/articles/PMC10517328/#s017"
+doi: 10.48324/dandi.001630/0.251127.1424
 ethicsApproval: []
-id: DANDI:001630/draft
+id: DANDI:001630/0.251127.1424
 identifier: DANDI:001630
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001630/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001630/0.251127.1424/assets.yaml
 name: Bright-Field Images of Rabbit Nerves from Nerve Repair Study with Axon and Myelin
   Segmentations
+publishedBy:
+  endDate: '2025-11-27T14:24:34.577630+00:00'
+  id: urn:uuid:6e1b8dba-2138-4ac3-9517-dd5a06bc98dd
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-11-27T14:24:34.577630+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:049f8fd5-8169-4516-8bf5-9770dba57c02
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
@@ -137,6 +151,6 @@ studyTarget:
 - experimental nerve repair study
 - axon segmentation
 - myelin segmentation
-url: https://dandiarchive.org/dandiset/001630/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001630/0.251127.1424
+version: 0.251127.1424
 wasGeneratedBy: []
